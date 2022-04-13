@@ -1,1 +1,1 @@
-console.log("Connected, in here");
+console.log("Connected - flexbox bootstrap exercise");
